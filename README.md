@@ -24,12 +24,16 @@ A lightweight Python-based **network monitoring tool** that captures live packet
    ```bash
    pip install -r requirements.txt
    ```
+
+
 ##  Demo
 
 Here’s how the tool looks when running inside VS Code:
 
+![Demo](demo.png)
 
-C:\Users\Dustu\OneDrive\Desktop\network_monitor\demo.png
+---
+
 
 ---
 

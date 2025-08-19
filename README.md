@@ -43,14 +43,6 @@ Arguments:
 
 ---
 
-## Demo
-
-Here’s a preview of the tool running inside VS Code:
-
-![Demo](<img width="1920" height="1020" alt="demo" src="https://github.com/user-attachments/assets/5b538e5b-ae8e-4057-98a7-ac21343aab07" />
-)
-
----
 
 ## Output
 
